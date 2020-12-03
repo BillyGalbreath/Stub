@@ -1,0 +1,11 @@
+name: "Stub"
+main: "net.pl3x.bukkit.stub.Stub"
+version: "${project.version}"
+description: "Stub plugin showing maven modules per nms version"
+author: "BillyGalbreath"
+api-version: 1.13
+
+commands:
+  cow:
+    description: Summon a cow using NMS
+    usage: /<command>
